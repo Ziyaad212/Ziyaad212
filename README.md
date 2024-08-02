@@ -2,16 +2,12 @@
 I’m currently working on my software development projects.<br>I’m looking to collaborate on a team project.<br>I’m looking for help with my JavaScript skills.<br>I’m currently learning frontend development.<br>
 
 <b>🔎 INTEREST : </b> 
-
  <br>In addition to my professional pursuits, I have a keen interest in gaming and racing. I am always open to discussions on these topics and enjoy sharing insights and experiences related to them.</br>
 
-
 <b> CODING JOURNEY💻</b>
-
 <br>Starting out with coding was difficult,stressful and intriguing at the same time. One minute you think where it all went wrong, then the next feeling relieved to find the problem. At the pace we going the work is piling on, but I'll just have to push through.  </br>
 
 <b> GOALS 🪄</b>
-
 <br>As a software developer, focus on enhancing technical skills, building a diverse portfolio, and staying updated with technology trends. Collaborate on team projects and participate in developer communities to learn and network. Maintain high-quality standards with clean, tested code, and develop soft skills like communication and time management.</br>
 
 
