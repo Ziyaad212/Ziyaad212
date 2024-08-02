@@ -1,7 +1,5 @@
 # 💫 About Me:
-I am a dedicated software developer currently engaged in various software development projects. I am actively seeking opportunities for collaboration on team projects to enhance my skills and contribute to collective success.
-
-I am focused on improving my JavaScript proficiency and expanding my knowledge in frontend development. My commitment to learning and professional growth drives me to seek out resources and support in these areas.</br>
+I’m currently working on my software development projects.<br>I’m looking to collaborate on a team project.<br>I’m looking for help with my JavaScript skills.<br>I’m currently learning frontend development.<br>
 
 <b>🔎 INTEREST : </b> 
 
@@ -29,9 +27,6 @@ I am focused on improving my JavaScript proficiency and expanding my knowledge i
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ziyaad212&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ziyaad212&icon=0&color=0)](https://visitcount.itsvg.in)
